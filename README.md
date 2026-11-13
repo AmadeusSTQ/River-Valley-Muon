@@ -1,8 +1,7 @@
-# [NeurIPS2026]Towards Understanding the Power and Limits of the Muon Optimizer: A River-Valley Perspective
+# [NeurIPS2026] Towards Understanding the Power and Limits of the Muon Optimizer: A River-Valley Perspective
 
-**Authors:** [Tianqi Shen](https://amadeusstq.github.io/), [Runze Shi](https://orcid.org/0009-0003-8905-8259), [Jinji Yang](https://orcid.org/0009-0000-9527-3834), [Jianhao Ma](https://jianhaoma.github.io/), [Jiaye Teng](https://www.tengjiaye.com/), and [Ziye Ma](https://gavenma.github.io/)
-
-**Affiliations:** City University of Hong Kong; Tsinghua University; Shanghai University of Finance and Economics
+**Authors:** [Tianqi Shen](https://amadeusstq.github.io/)<sup>1</sup>, [Runze Shi](https://orcid.org/0009-0003-8905-8259)<sup>1</sup>, [Jinji Yang](https://orcid.org/0009-0000-9527-3834)<sup>1</sup>, [Jianhao Ma](https://jianhaoma.github.io/)<sup>2</sup>, [Jiaye Teng](https://www.tengjiaye.com/)<sup>3</sup>, and [Ziye Ma](https://gavenma.github.io/)<sup>1</sup>  
+**Affiliations:** <sup>1</sup>City University of Hong Kong; <sup>2</sup>Tsinghua University; <sup>3</sup>Shanghai University of Finance and Economics
 
 ## News
 
