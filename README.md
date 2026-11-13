@@ -52,8 +52,12 @@ The camera-ready paper contains the complete derivations, assumptions, and exper
 ```
 
 ## Acknowledgments
+- Thanks to [epfml/schedules-and-scaling](https://github.com/epfml/schedules-and-scaling) and [karpathy/nanochat](https://github.com/karpathy/nanochat) for providing the foundational code framework.
+- Thanks to [Tongle Wu](https://orcid.org/0000-0001-7713-5622), a Ph.D. candidate at The Pennsylvania State University, University Park, for his insightful discussions and guidance during the early stage of this project.
+- Thanks to Tianqi’s girlfriend, [Lu Huang](http://www.dongsuweigroup.com/Members), a Ph.D. candidate at Peking University, for her companionship, encouragement, and thoughtful advice during the rebuttal period.
+- Thanks to Tianqi’s friend, [Xu Ji](https://orcid.org/0009-0001-0651-4622), a Ph.D. candidate in the Department of Linguistics and Translation at City University of Hong Kong, for her companionship and support during the derivation process.
+- Thanks to the NeurIPS 2026 reviewers WXY1, 4fFA, and z1oq, as well as Area Chair 6sj4, for their valuable feedback.
 
-The LLM pre-training framework is adapted from [epfml/schedules-and-scaling](https://github.com/epfml/schedules-and-scaling). The separate motivation experiments use a code framework adapted from [karpathy/nanochat](https://github.com/karpathy/nanochat); the motivation training code is not included in this release. Please see [`llm-pretraining/README.md`](llm-pretraining/README.md) for the implementation scope and current reproduction requirements.
 
 ## License
 
